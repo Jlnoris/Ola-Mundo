@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula do CursoEmVideo.
 
-Essa linha eu adicionei, diretamente no Site!
+**Essa linha eu adicionei**, diretamente no *Site*!
